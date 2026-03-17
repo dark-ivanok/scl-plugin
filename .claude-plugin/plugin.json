@@ -1,0 +1,10 @@
+{
+  "name": "scl",
+  "version": "1.0.0",
+  "description": "System Cognitive Layer — compresses domain knowledge skills into a typed graph. Loads only the nodes relevant to each query instead of the full SKILL.md. Typical savings: 80-90% fewer tokens with equivalent output quality.",
+  "author": "dark-ivanok",
+  "license": "MIT",
+  "skills": [
+    "skills/scl"
+  ]
+}
