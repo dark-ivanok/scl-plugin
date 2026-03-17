@@ -96,6 +96,14 @@ scl-plugin/
         └── worked_example.md
 ```
 
+## ❤️ Support this project
+
+This project was built using the free version of Claude, driven purely by curiosity and a desire to explore new ideas.
+
+If you find it useful or interesting, consider supporting its development through donations or sponsorship. Any support helps keep the project evolving and allows for more time improving and expanding it.
+
+Thanks for being part of the journey 🚀
+
 ## License
 
 MIT
