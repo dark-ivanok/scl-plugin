@@ -43,7 +43,6 @@ Author Mode lives in `references/author.md` and only loads when indexing a skill
 | xlsx | 2,863 tok | 1,140 tok | 60% |
 | kubernetes | 2,695 tok | 1,170 tok | 57% |
 
-All five `.scg.yaml` files are included in this repo — ready to use.
 
 ## Install
 
