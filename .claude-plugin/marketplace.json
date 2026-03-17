@@ -1,0 +1,11 @@
+{
+  "name": "scl-marketplace",
+  "description": "SCL (System Cognitive Layer) — graph-based context compression for Claude Code skills",
+  "plugins": [
+    {
+      "name": "scl",
+      "path": ".",
+      "description": "Compress any domain knowledge skill into a typed graph. 80-90% token savings per query. Two modes: AUTHOR (index a SKILL.md into a .scg.yaml) and CONSUMER (auto-load pruned context instead of full SKILL.md)."
+    }
+  ]
+}
